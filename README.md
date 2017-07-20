@@ -1,2 +1,1 @@
-# dcs
-Digital Certificate Signer
+# Digital Certificate Signer Windows Application
